@@ -1,0 +1,204 @@
+00:00.341	ID:8	Rime started with address 8.0
+00:00.350	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 8.
+00:00.359	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.362	ID:8	Starting 'Test collect process'
+00:00.380	ID:8	broadcast message sent
+00:00.385	ID:8	I got the message as :-  Co-ord at : 20.501500613894496 19.30623368194733
+00:00.386	ID:8	Index value is C
+00:00.388	ID:8	type cast index value 19Sending ... 
+00:00.459	ID:11	Rime started with address 11.0
+00:00.468	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 11.
+00:00.477	ID:11	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.480	ID:11	Starting 'Test collect process'
+00:00.497	ID:11	broadcast message sent
+00:00.502	ID:11	I got the message as :-  Co-ord at : 18.371466296738255 15.31241933727938
+00:00.503	ID:11	Index value is C
+00:00.504	ID:2	Rime started with address 2.0
+00:00.506	ID:11	type cast index value 19Sending ... 
+00:00.513	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 2.
+00:00.519	ID:6	Rime started with address 6.0
+00:00.522	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.525	ID:2	Starting 'Test collect process'
+00:00.528	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 6.
+00:00.537	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.539	ID:6	Starting 'Test collect process'
+00:00.543	ID:2	broadcast message sent
+00:00.548	ID:2	I got the message as :-  Co-ord at : 49.024495619172264 32.71478735408442
+00:00.549	ID:2	Index value is C
+00:00.552	ID:2	type cast index value 19Sending ... 
+00:00.558	ID:6	broadcast message sent
+00:00.563	ID:6	I got the message as :-  Co-ord at : 38.512360922722195 40.887856715669294
+00:00.564	ID:6	Index value is C
+00:00.566	ID:6	type cast index value 19Sending ... 
+00:00.617	ID:4	Rime started with address 4.0
+00:00.625	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 4.
+00:00.635	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.637	ID:4	Starting 'Test collect process'
+00:00.650	ID:1	Rime started with address 1.0
+00:00.655	ID:4	broadcast message sent
+00:00.659	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 1.
+00:00.660	ID:4	I got the message as :-  Co-ord at : 7.455040421312531 6.259773489365367
+00:00.661	ID:4	Index value is C
+00:00.664	ID:4	type cast index value 19Sending ... 
+00:00.669	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.670	ID:7	Rime started with address 7.0
+00:00.671	ID:1	Starting 'Test collect process'
+00:00.674	ID:1	I am sink
+00:00.679	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 7.
+00:00.688	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.689	ID:1	broadcast message sent
+00:00.691	ID:7	Starting 'Test collect process'
+00:00.694	ID:1	I got the message as :-  Co-ord at : 44.21150740512668 26.687926600858443
+00:00.695	ID:1	Index value is C
+00:00.698	ID:1	type cast index value 19Sending ... 
+00:00.706	ID:1	Sink got message from 1.0, seqno 0, hops 0: len 49 'Co-ord at : 44.21150740512668 26.687926600858443'
+00:00.709	ID:7	broadcast message sent
+00:00.714	ID:7	I got the message as :-  Co-ord at : 17.173321993337876 18.90685224748053
+00:00.715	ID:7	Index value is C
+00:00.717	ID:7	type cast index value 19Sending ... 
+00:00.825	ID:10	Rime started with address 10.0
+00:00.834	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 10.
+00:00.843	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.846	ID:10	Starting 'Test collect process'
+00:00.863	ID:10	broadcast message sent
+00:00.868	ID:10	I got the message as :-  Co-ord at : 13.248496351331324 43.81512299866945
+00:00.869	ID:10	Index value is C
+00:00.872	ID:10	type cast index value 19Sending ... 
+00:00.977	ID:9	Rime started with address 9.0
+00:00.983	ID:5	Rime started with address 5.0
+00:00.985	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 9.
+00:00.992	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 5.
+00:00.995	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:00.997	ID:9	Starting 'Test collect process'
+00:01.001	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:01.004	ID:5	Starting 'Test collect process'
+00:01.015	ID:9	broadcast message sent
+00:01.020	ID:9	I got the message as :-  Co-ord at : 19.569610600138642 17.309326509613353
+00:01.022	ID:9	Index value is C
+00:01.022	ID:5	broadcast message sent
+00:01.024	ID:9	type cast index value 19Sending ... 
+00:01.027	ID:5	I got the message as :-  Co-ord at : 11.715109055625012 35.68087249508591
+00:01.028	ID:5	Index value is C
+00:01.031	ID:5	type cast index value 19Sending ... 
+00:01.168	ID:3	Rime started with address 3.0
+00:01.176	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-2.6-900-ga6227e1 started. Node id is set to 3.
+00:01.186	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 65491
+00:01.188	ID:3	Starting 'Test collect process'
+00:01.206	ID:3	broadcast message sent
+00:01.211	ID:3	I got the message as :-  Co-ord at : 49.70475520081497 32.87566955285989
+00:01.212	ID:3	Index value is C
+00:01.214	ID:11	broadcast message sent
+00:01.215	ID:3	type cast index value 19Sending ... 
+00:01.216	ID:11	I got the message as :-  0:Hello1
+00:01.217	ID:9	broadcast message sent
+00:01.218	ID:11	Index value is 0
+00:01.219	ID:9	I got the message as :-  0:Hello1
+00:01.220	ID:9	Index value is 0
+00:01.222	ID:8	broadcast message sent
+00:01.222	ID:11	type cast index value 0 -1  -1  -1  -1 
+00:01.223	ID:7	broadcast message sent
+00:01.224	ID:9	type cast index value 0 -1  -1  -1  -1 
+00:01.224	ID:11	index is 0  Node index -1
+00:01.224	ID:8	I got the message as :-  0:Hello1
+00:01.225	ID:7	I got the message as :-  0:Hello1
+00:01.225	ID:9	index is 0  Node index -1
+00:01.226	ID:11	Sending Aggregreted Packets  
+00:01.226	ID:7	Index value is 0
+00:01.227	ID:8	Index value is 0
+00:01.228	ID:9	Sending Aggregreted Packets  
+00:01.230	ID:7	type cast index value 0 -1  -1  -1  -1 
+00:01.230	ID:8	type cast index value 0 -1  -1  -1  -1 
+00:01.232	ID:7	index is 0  Node index -1
+00:01.232	ID:8	index is 0  Node index -1
+00:01.232	ID:11	broadcast message sent
+00:01.233	ID:9	broadcast message sent
+00:01.234	ID:7	Sending Aggregreted Packets  
+00:01.234	ID:8	Sending Aggregreted Packets  
+00:01.235	ID:11	I got the message as :-  1:Hello3
+00:01.235	ID:9	I got the message as :-  1:Hello3
+00:01.236	ID:11	Index value is 1
+00:01.237	ID:9	Index value is 1
+00:01.239	ID:11	type cast index value 1 0  -1  -1  -1 
+00:01.239	ID:7	broadcast message sent
+00:01.239	ID:8	broadcast message sent
+00:01.240	ID:9	type cast index value 1 0  -1  -1  -1 
+00:01.241	ID:11	index is 1  Node index -1
+00:01.241	ID:7	I got the message as :-  1:Hello3
+00:01.242	ID:9	index is 1  Node index -1
+00:01.242	ID:8	I got the message as :-  1:Hello3
+00:01.242	ID:7	Index value is 1
+00:01.243	ID:11	Sending Aggregreted Packets  
+00:01.243	ID:8	Index value is 1
+00:01.244	ID:9	Sending Aggregreted Packets  
+00:01.245	ID:7	type cast index value 1 0  -1  -1  -1 
+00:01.246	ID:8	type cast index value 1 0  -1  -1  -1 
+00:01.247	ID:7	index is 1  Node index -1
+00:01.248	ID:8	index is 1  Node index -1
+00:01.249	ID:11	broadcast message sent
+00:01.249	ID:7	Sending Aggregreted Packets  
+00:01.250	ID:9	broadcast message sent
+00:01.250	ID:8	Sending Aggregreted Packets  
+00:01.251	ID:11	I got the message as :-  2:Hello2
+00:01.252	ID:9	I got the message as :-  2:Hello2
+00:01.252	ID:11	Index value is 2
+00:01.253	ID:9	Index value is 2
+00:01.255	ID:11	type cast index value 2 0  1  -1  -1 
+00:01.256	ID:7	broadcast message sent
+00:01.256	ID:8	broadcast message sent
+00:01.256	ID:9	type cast index value 2 0  1  -1  -1 
+00:01.257	ID:11	index is 2  Node index -1
+00:01.258	ID:7	I got the message as :-  2:Hello2
+00:01.258	ID:9	index is 2  Node index -1
+00:01.258	ID:8	I got the message as :-  2:Hello2
+00:01.259	ID:7	Index value is 2
+00:01.259	ID:11	Sending Aggregreted Packets  
+00:01.259	ID:8	Index value is 2
+00:01.260	ID:9	Sending Aggregreted Packets  
+00:01.262	ID:7	type cast index value 2 0  1  -1  -1 
+00:01.262	ID:8	type cast index value 2 0  1  -1  -1 
+00:01.264	ID:7	index is 2  Node index -1
+00:01.264	ID:8	index is 2  Node index -1
+00:01.266	ID:11	broadcast message sent
+00:01.266	ID:7	Sending Aggregreted Packets  
+00:01.266	ID:8	Sending Aggregreted Packets  
+00:01.267	ID:9	broadcast message sent
+00:01.268	ID:11	I got the message as :-  3:Hello3
+00:01.269	ID:9	I got the message as :-  3:Hello3
+00:01.269	ID:11	Index value is 3
+00:01.270	ID:9	Index value is 3
+00:01.272	ID:11	type cast index value 3 0  1  2  -1 
+00:01.272	ID:7	broadcast message sent
+00:01.273	ID:8	broadcast message sent
+00:01.273	ID:9	type cast index value 3 0  1  2  -1 
+00:01.274	ID:11	index is 3  Node index -1
+00:01.275	ID:7	I got the message as :-  3:Hello3
+00:01.275	ID:9	index is 3  Node index -1
+00:01.275	ID:8	I got the message as :-  3:Hello3
+00:01.276	ID:7	Index value is 3
+00:01.276	ID:11	Sending Aggregreted Packets  
+00:01.276	ID:8	Index value is 3
+00:01.277	ID:9	Sending Aggregreted Packets  
+00:01.279	ID:7	type cast index value 3 0  1  2  -1 
+00:01.279	ID:8	type cast index value 3 0  1  2  -1 
+00:01.281	ID:7	index is 3  Node index -1
+00:01.281	ID:8	index is 3  Node index -1
+00:01.283	ID:7	Sending Aggregreted Packets  
+00:01.283	ID:8	Sending Aggregreted Packets  
+00:02.179	ID:1	Sink got message from 6.0, seqno 0, hops 1: len 50 'Co-ord at : 38.512360922722195 40.887856715669294'
+00:02.301	ID:1	Sink got message from 11.0, seqno 0, hops 1: len 49 'Co-ord at : 18.371466296738255 15.31241933727938'
+00:02.554	ID:1	Sink got message from 9.0, seqno 0, hops 1: len 50 'Co-ord at : 19.569610600138642 17.309326509613353'
+00:02.676	ID:1	Sink got message from 2.0, seqno 0, hops 1: len 49 'Co-ord at : 49.024495619172264 32.71478735408442'
+00:02.929	ID:1	Sink got message from 7.0, seqno 0, hops 1: len 49 'Co-ord at : 17.173321993337876 18.90685224748053'
+00:03.302	ID:1	Sink got message from 3.0, seqno 0, hops 1: len 48 'Co-ord at : 49.70475520081497 32.87566955285989'
+00:03.551	ID:1	Sink got message from 8.0, seqno 0, hops 1: len 49 'Co-ord at : 20.501500613894496 19.30623368194733'
+00:05.928	ID:1	Sink got message from 5.0, seqno 0, hops 2: len 49 'Co-ord at : 11.715109055625012 35.68087249508591'
+00:07.550	ID:1	Sink got message from 8.0, seqno 2, hops 1: len 29 'Aggrgrated  0:Hello11:Hello3'
+00:08.175	ID:1	Sink got message from 11.0, seqno 2, hops 1: len 29 'Aggrgrated  0:Hello11:Hello3'
+00:08.303	ID:1	Sink got message from 10.0, seqno 0, hops 2: len 49 'Co-ord at : 13.248496351331324 43.81512299866945'
+00:08.676	ID:1	Sink got message from 4.0, seqno 0, hops 3: len 48 'Co-ord at : 7.455040421312531 6.259773489365367'
+00:09.298	ID:1	Sink got message from 7.0, seqno 2, hops 1: len 29 'Aggrgrated  0:Hello11:Hello3'
+00:09.549	ID:1	Sink got message from 7.0, seqno 3, hops 1: len 37 'Aggrgrated  0:Hello11:Hello32:Hello2'
+00:10.176	ID:1	Sink got message from 9.0, seqno 2, hops 1: len 29 'Aggrgrated  0:Hello11:Hello3'
+00:10.427	ID:1	Sink got message from 9.0, seqno 3, hops 1: len 37 'Aggrgrated  0:Hello11:Hello32:Hello2'
+00:11.926	ID:1	Sink got message from 11.0, seqno 3, hops 1: len 37 'Aggrgrated  0:Hello11:Hello32:Hello2'
+00:12.801	ID:1	Sink got message from 8.0, seqno 3, hops 1: len 37 'Aggrgrated  0:Hello11:Hello32:Hello2'
